@@ -23,3 +23,4 @@ This project is a simple and fun web animation that showcases a bouncing ball us
 
 ## 📁 Folder Structure
 
+bouncingball-animation/ │ ├── index.html # Main HTML file ├── style.css # CSS styles for the animation 

@@ -19,7 +19,6 @@ This project is a simple and fun web animation that showcases a bouncing ball us
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
 
 ## 📁 Folder Structure
 

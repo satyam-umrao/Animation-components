@@ -10,10 +10,10 @@ This project is a simple and fun web animation that showcases a bouncing ball us
 
 ## 🚀 Features
 
-- Realistic bouncing effect  
+- Realistic bouncing effect.  
 - Smooth animations using `requestAnimationFrame()`  
-- Customizable ball properties (speed, color, etc.)  
-- Fully responsive and lightweight  
+- Customizable ball properties (speed, color, etc.).  
+- Fully responsive and lightweight.
 
 ## 🛠️ Technologies Used
 
